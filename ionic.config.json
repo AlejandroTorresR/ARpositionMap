@@ -1,0 +1,7 @@
+{
+  "name": "ARtest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
